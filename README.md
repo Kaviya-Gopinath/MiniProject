@@ -2,7 +2,7 @@
 
 This is an Online Banking Concept created using java
 
-**Features**
+**Features**         
 • create user account by universal Id randomly
 • check ✅ user & password validation for user 
 • Bank Account Type Support (e.g. Savings Account, Business Account)
